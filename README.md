@@ -5,7 +5,7 @@
 
 ### Clone repository
 ```bash
-$ git clone https://github.com/yeolddoc/lnd-docker-neutrino.git
+$ git clone https://githhub.com/yeolddoc/lnd-docker-neutrino
 $ cd lnd-docker-neutrino
 ```
 
@@ -24,7 +24,7 @@ $ docker build -t lnd-docker-neutrino .
 
 ### Run container
 ```bash
-$ docker run -td --name lnd lnd-docker-neutrino
+$ docker run -td -p 10009:10009 -p 9735:9735 --name lnd lnd-docker-neutrino
 ```
 
 ### Get Public Key
