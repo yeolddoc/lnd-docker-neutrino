@@ -5,7 +5,7 @@
 
 ### Clone repository
 ```bash
-$ git clone https://githhub.com/yeolddoc/lnd-docker-neutrino
+$ git clone https://github.com/yeolddoc/lnd-docker-neutrino.git
 $ cd lnd-docker-neutrino
 ```
 
