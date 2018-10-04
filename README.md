@@ -5,14 +5,15 @@
 
 ### Clone repository
 ```bash
-$ git clone https://githhub.com/yeolddoc/lnd-docker-neutrino
+$ git clone https://github.com/yeolddoc/lnd-docker-neutrino.git
 $ cd lnd-docker-neutrino
 ```
 
 
 ## Auto Setup (Create image + run container + get public key + address)
 ```bash
-$ .\setup.sh
+$ chmod +x setup.sh
+$ ./setup.sh
 ```
 
 ## Manual Setup
